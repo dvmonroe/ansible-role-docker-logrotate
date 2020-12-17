@@ -1,0 +1,11 @@
+---
+galaxy_info:
+  author: dvmonroe
+  description: Sets up a docker container running logrotate with user configured settings and volumes
+  license: license (MIT)
+  min_ansible_version: 2.9
+  galaxy_tags:
+    - docker
+    - logrotate
+
+dependencies: []
